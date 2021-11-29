@@ -13,7 +13,6 @@ public class PlayerController : MonoBehaviour
     int Movement = 0;
     Animator anim;
     public int Nanas = 0;
-    //GameObject panelWin;
     public Text TextTimer;
     public float Waktu;
     public GameObject CanvasKalah;
@@ -24,8 +23,6 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         anim = GetComponent<Animator>();
-        //panelWin = GameObject.Find("PanelWin");
-        //panelWin.SetActive(false);
         Data.score = 0;
 
     }
@@ -33,7 +30,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Debug.Log("Jump "+isJump);
         if (Input.GetKeyDown(KeyCode.A))
         {
             rb.velocity = new Vector2(-3, 0);
@@ -100,7 +96,6 @@ public class PlayerController : MonoBehaviour
     }
     private void OnCollisionStay2D(Collision2D collision)
     {
-        // Kondisi ketika menyentuh tanah
         if (Jumping)
         {
             anim.ResetTrigger("jump");
@@ -136,7 +131,6 @@ public class PlayerController : MonoBehaviour
     }
     public void Idle()
     {
-        // kondisi ketika idle/diam
         if (!Jumping)
         {
             anim.ResetTrigger("jump");
@@ -171,12 +165,5 @@ public class PlayerController : MonoBehaviour
         transform.localScale = new Vector2(1, 1);
         anim.SetBool("slide", true);
     }
-    /*void OnCollisionExit2D(Collision2D collision)
-    {
-        anim.SetTrigger("jump");
-        anim.ResetTrigger("run");
-        anim.ResetTrigger("idle");
-        Jumping = true;
-    }*/
 }
 
