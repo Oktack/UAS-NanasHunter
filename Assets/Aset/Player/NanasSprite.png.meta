@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 168c6e68406c73b4eafb1aff5ddad70d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6761581043773917377
+    second: NanasSprite_0
+  - first:
+      213: 5759354843224585135
+    second: NanasSprite_1
+  - first:
+      213: -4392329034101035952
+    second: NanasSprite_2
+  - first:
+      213: -7501155103745053033
+    second: NanasSprite_3
+  - first:
+      213: -3165272893136065714
+    second: NanasSprite_4
+  - first:
+      213: -8955235471557656050
+    second: NanasSprite_5
+  - first:
+      213: 6580223738203237422
+    second: NanasSprite_6
+  - first:
+      213: -4069158219142011381
+    second: NanasSprite_7
+  - first:
+      213: -642783371600225298
+    second: NanasSprite_8
+  - first:
+      213: 3795431932926152379
+    second: NanasSprite_9
+  - first:
+      213: -8259352772251435638
+    second: NanasSprite_10
+  - first:
+      213: -8050043698009078207
+    second: NanasSprite_11
+  - first:
+      213: -1092373179405625852
+    second: NanasSprite_12
+  - first:
+      213: 6619964789716411967
+    second: NanasSprite_13
+  - first:
+      213: -7781795537886141323
+    second: NanasSprite_14
+  - first:
+      213: -5361688591430263364
+    second: NanasSprite_15
+  - first:
+      213: 4299314329846233079
+    second: NanasSprite_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NanasSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c82a8226f5dd50800000000000000
+      internalID: 6761581043773917377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b3dd27b65def40800000000000000
+      internalID: 5759354843224585135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce5c9d3005b03c0800000000000000
+      internalID: -4392329034101035952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eea2c0d2b86e790800000000000000
+      internalID: -7501155103745053033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba373f211b214d0800000000000000
+      internalID: -3165272893136065714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0204d519cc98b380800000000000000
+      internalID: -8955235471557656050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c623a50a6a15b50800000000000000
+      internalID: 6580223738203237422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06ed25b8227787c0800000000000000
+      internalID: -4069158219142011381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_8
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb9d3cddef5417f0800000000000000
+      internalID: -642783371600225298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_9
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbecc33eb351ca430800000000000000
+      internalID: 3795431932926152379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_10
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8db05fd962e06d80800000000000000
+      internalID: -8259352772251435638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_11
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460cc958ef784090800000000000000
+      internalID: -8050043698009078207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_12
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061d57816c17d0f0800000000000000
+      internalID: -1092373179405625852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_13
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e3a4f6e6dedb50800000000000000
+      internalID: 6619964789716411967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_14
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a3912032810490800000000000000
+      internalID: -7781795537886141323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_15
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd88f22a47795b0800000000000000
+      internalID: -5361688591430263364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NanasSprite_16
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 0
+        width: 206.35294
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f73b30ba9b3aab30800000000000000
+      internalID: 4299314329846233079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
